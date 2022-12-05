@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/djefe/Documents/GitHub/Android-Simple-Crud/AndroidSimpleCrud/app/src/main/res/menu/menu_principal.xml" value="0.371875" />
         <entry key="..\:/Users/djefe/Documents/GitHub/AndroidSimpleCrud/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2953703703703704" />
         <entry key="..\:/Users/djefe/Documents/GitHub/AndroidSimpleCrud/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2953703703703704" />
         <entry key="..\:/Users/djefe/Documents/GitHub/AndroidSimpleCrud/app/src/main/res/layout/activity_formulario.xml" value="0.371875" />
         <entry key="..\:/Users/djefe/Documents/GitHub/AndroidSimpleCrud/app/src/main/res/layout/activity_main.xml" value="0.371875" />
         <entry key="..\:/Users/djefe/Documents/GitHub/AndroidSimpleCrud/app/src/main/res/layout/item.xml" value="0.371875" />
+        <entry key="..\:/Users/djefe/Documents/GitHub/UNIDAVI/Android-Simple-Crud/AndroidSimpleCrud/app/src/main/res/xml/file_paths.xml" value="0.19166666666666668" />
       </map>
     </option>
   </component>
